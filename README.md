@@ -1,1 +1,1 @@
-# portfolio_programming
+# programming_journey
